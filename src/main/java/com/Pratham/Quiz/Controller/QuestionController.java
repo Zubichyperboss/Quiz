@@ -25,7 +25,7 @@ public class QuestionController {
 	public List<QuestionModel> findAllQuestion(){
 		return qService.getAllQuestions();
 	}
-	//check this change
+	//check this change again
 	/*
     @GetMapping("/rika")
 //	@RequestMapping(path="/tola")
